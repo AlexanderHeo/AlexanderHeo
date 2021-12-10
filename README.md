@@ -8,17 +8,17 @@ My name is Alex Heo and I create web sites and web applications in React. My lov
 
 ## 🎸 Pull Requests
 
-Please visit my portofolio site to learn more about me, and my Pull Requests to my projects below if you would like to see my coding and thought process.
+Please see my Pull Requests to my projects below if you would like to see my coding and thought process.
 
 - [Student Grade Table - Pull Requests](https://github.com/AlexanderHeo/student_grade_table/pulls?q=is%3Apr+is%3Aclosed)
 - [Fountain of Ink - Pull Requests](https://github.com/AlexanderHeo/fountain_of_ink/pulls?q=is%3Apr+is%3Aclosed)
-- [Work in Progres - Barbook - Pull Requests](https://github.com/AlexanderHeo/barbook/pulls?q=is%3Apr+is%3Aclosed)
 
 ## 🔭 Current Project
 
 I am working on a bartender's compendium, using NextJS and Prisma
 
 - [Barbook GitHub Repo](https://github.com/AlexanderHeo/barbook)
+- [Barbook - Pull Requests](https://github.com/AlexanderHeo/barbook/pulls?q=is%3Apr+is%3Aclosed)
 
 ## 🎁 Stats
 
@@ -26,21 +26,21 @@ I am working on a bartender's compendium, using NextJS and Prisma
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact&langs_count=3&custom_title=My_Favorite_Languages" alt="Alex's top languages"/>
 </a>
 <a href="https://github.com/AlexanderHeo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=27&count_private=true&include_all_commits=true&hide=total_stars_earned,total_issues,contributed_to&layout=compact&theme=synthwave" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=24&count_private=true&include_all_commits=true&hide=stars,issues,contribsf&layout=compact&theme=synthwave" alt="Alex's GitHub Stats" />
 </a>
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Editor-Visual_Studio_code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Editor-Visual_Studio_code-informational?style=flat&logo=visualstudiocode&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=E4289E&color=2B213A)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=E4289E&color=2B213A)
 
 ## 📫 How to reach me:
 
