@@ -1,8 +1,8 @@
-[![Header](https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_computer_banner.jpg 'Header')](https://alexheo.com/)
+[![Header](https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/images/LEGO_computer_banner.jpg 'Header')](https://alexheo.com/)
 
 <!-- # Hello there, I'm Alex Heo <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_Emmet_wave.gif" width="50px"> -->
 
-# 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/lightsaber2.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
+# 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/images/lightsaber2.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
 
 My name is Alex Heo and I create web sites and web applications in React. My love and passion for tech began when I was eight years old and took apart my parent's VCR. I love building things - in real life with LEGO bricks, or virtually with JavaScript. I look forward to building apps that leaves a positive impact in this world and making my contribution to the ever growing world of the internet.
 
