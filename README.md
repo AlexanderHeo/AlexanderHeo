@@ -22,12 +22,10 @@ I am working on a bartender's compendium, using NextJS and Prisma
 
 ### 🎁 Stats
 
-<a href="https://github.com/AlexanderHeo/AlexanderHeo">
+<div style="display: flex; flex-direction: row;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact" />
-</a>
-<a href="https://github.com/AlexanderHeo/AlexanderHeo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=22&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=32&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
+</div>
 
 ### 🔧 Technologies & Tools
 
