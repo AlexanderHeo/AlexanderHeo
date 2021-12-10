@@ -1,8 +1,8 @@
 [![Header](https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_computer_banner.jpg 'Header')](https://alexheo.com/)
 
-# Hello there, I'm Alex Heo <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_Emmet_wave.gif" width="50px">
+<!-- # Hello there, I'm Alex Heo <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_Emmet_wave.gif" width="50px"> -->
 
-## 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/lightsaber2.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
+# 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/lightsaber2.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
 
 My name is Alex Heo and I create web sites and web applications in React. My love and passion for tech began when I was eight years old and took apart my parent's VCR. I love building things - in real life with LEGO bricks, or virtually with JavaScript. I hope to build apps that leaves a positive impact in this world.
 
@@ -20,10 +20,14 @@ I am working on a bartender's compendium, using NextJS and Prisma
 - [Barbook GitHub Repo](https://github.com/AlexanderHeo/barbook)
 - [Barbook - Pull Requests](https://github.com/AlexanderHeo/barbook/pulls?q=is%3Apr+is%3Aclosed)
 
-<!-- ### 🎁 Stats
+### 🎁 Stats
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact&langs_count=3&custom_title=My%20Favorite%20Languages" alt="Alex's top languages"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=24&count_private=true&include_all_commits=true&hide=stars,issues&layout=compact&theme=synthwave" alt="Alex's GitHub Stats" /> -->
+<a href="https://github.com/AlexanderHeo/AlexanderHeo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact" />
+</a>
+<a href="https://github.com/AlexanderHeo/AlexanderHeo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=22&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
+</a>
 
 ### 🔧 Technologies & Tools
 
