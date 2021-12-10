@@ -4,7 +4,7 @@
 
 # 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/lightsaber2.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
 
-My name is Alex Heo and I create web sites and web applications in React. My love and passion for tech began when I was eight years old and took apart my parent's VCR. I love building things - in real life with LEGO bricks, or virtually with JavaScript. I hope to build apps that leaves a positive impact in this world.
+My name is Alex Heo and I create web sites and web applications in React. My love and passion for tech began when I was eight years old and took apart my parent's VCR. I love building things - in real life with LEGO bricks, or virtually with JavaScript. I look forward to building apps that leaves a positive impact in this world and making my contribution to the ever growing world of the internet.
 
 ### 🎸 Pull Requests
 
@@ -24,7 +24,7 @@ I am working on a bartender's compendium, using NextJS and Prisma
 
 <div style="display: flex; flex-direction: row;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=32&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=30&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
 </div>
 
 ### 🔧 Technologies & Tools
