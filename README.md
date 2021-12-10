@@ -2,7 +2,7 @@
 
 # Hello there, I'm Alex Heo <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/LEGO_Emmet_wave.gif" width="50px">
 
-## 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/empire.png" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
+## 🖥️ Web Developer, <img src="https://raw.githubusercontent.com/AlexanderHeo/AlexanderHeo/main/empire.jpg" width="30px"> Star Wars fan, ✒️ fountain pen collector, 🧱 LEGO brick master
 
 My name is Alex Heo and I create web sites and web applications in React. My love and passion for tech began when I was eight years old and took apart my parent's VCR. I love building things - in real life with LEGO bricks, or virtually with JavaScript. I hope to build apps that leaves a positive impact in this world.
 
