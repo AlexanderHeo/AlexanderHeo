@@ -24,7 +24,7 @@ I am working on a bartender's compendium, using NextJS and Prisma
 
 <div style="display: flex; flex-direction: row;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeo&theme=synthwave&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=32&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderHeo&line_height=30&count_private=true&theme=synthwave&hide=stars,issues" alt="Alex's GitHub Stats" />
 </div>
 
 ### 🔧 Technologies & Tools
