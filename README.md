@@ -12,6 +12,7 @@ Please see my Pull Requests to my projects below if you would like to see my cod
 
 - [Student Grade Table - Pull Requests](https://github.com/AlexanderHeo/student_grade_table/pulls?q=is%3Apr+is%3Aclosed)
 - [Fountain of Ink - Pull Requests](https://github.com/AlexanderHeo/fountain_of_ink/pulls?q=is%3Apr+is%3Aclosed)
+- [Mandala Maker - Pull Requests](https://github.com/AlexanderHeo/mandala_maker/pulls?q=is%3Apr+is%3Aclosed)
 
 ### 🔭 Current Project
 
